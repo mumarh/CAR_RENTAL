@@ -49,34 +49,33 @@ an intuitive search experience.
 
 ------------------------------------------------------------------------
 
-  FILE NAME / FOLDER         Description
-  -------------------------- ---------------------------------------
-  public/                    Static files (favicon, images, redirects, etc.)
-  src/                       Main source folder
-  ├─ components/             Reusable React UI components
-  │ ├─ Hero.jsx              Hero Section with search functionality
-  │ ├─ Footer.jsx            Website Footer Component
-  │ ├─ Nav.jsx               Navigation Bar Component
-  │ ├─ Layout.jsx            Layout wrapper for pages
-  │ ├─ FeaturedCar.jsx       Component to display featured cars
-  │ ├─ Feature.jsx           Highlights website features
-  │ ├─ Home.jsx              Homepage section layout
-  │ ├─ VideoSection.jsx      Section for promotional video
-  ├─ pages/                  Page-level components
-  │ ├─ About.jsx             About Page of the website
-  │ ├─ TermsConditions.jsx   Terms & Conditions Page
-  │ ├─ Contact.jsx           Contact Page with form
-  │ ├─ Car.jsx               Car details / listing page
-  │ ├─ Login.jsx             Login Page for users
-  │ ├─ Register.jsx          User Registration Page
-  ├─ App.jsx                 Main React App file (routes & structure)
-  └─ main.jsx                Entry point for React (renders App.jsx)
-  package.json               Project metadata, scripts & dependencies
-  tailwind.config.js         Tailwind CSS configuration file
-  vite.config.js             Vite build and dev server configuration
+| **File / Folder**        | **Description**                                 |
+| ------------------------ | ----------------------------------------------- |
+| `public/`                | Static files (favicon, images, redirects, etc.) |
+| `src/`                   | Main source folder                              |
+| ├─ `components/`         | Reusable React UI components                    |
+| ├─ `Hero.jsx`            | Hero Section with search functionality          |
+| ├─ `Footer.jsx`          | Website Footer Component                        |
+| ├─ `Nav.jsx`             | Navigation Bar Component                        |
+| ├─ `Layout.jsx`          | Layout wrapper for pages                        |
+| ├─ `FeaturedCar.jsx`     | Component to display featured cars              |
+| ├─ `Feature.jsx`         | Highlights website features                     |
+| ├─ `Home.jsx`            | Homepage section layout                         |
+| ├─ `VideoSection.jsx`    | Section for promotional video                   |
+| ├─ `pages/`              | Page-level components                           |
+| ├─ `About.jsx`           | About Page of the website                       |
+| ├─ `TermsConditions.jsx` | Terms & Conditions Page                         |
+| ├─ `Contact.jsx`         | Contact Page with form                          |
+| ├─ `Car.jsx`             | Car details / listing page                      |
+| ├─ `Login.jsx`           | Login Page for users                            |
+| ├─ `Register.jsx`        | User Registration Page                          |
+| `App.jsx`                | Main React App file (routes & structure)        |
+| `main.jsx`               | Entry point for React (renders App.jsx)         |
+| `package.json`           | Project metadata, scripts & dependencies        |
+| `tailwind.config.js`     | Tailwind CSS configuration file                 |
+| `vite.config.js`         | Vite build and dev server configuration         |
 
-
-------------------------------------------------------------------------
+---
 
 ### Author
 
