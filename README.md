@@ -49,6 +49,8 @@ an intuitive search experience.
 
 ------------------------------------------------------------------------
 
+## Folder Structure
+
 | **File / Folder**        | **Description**                                 |
 | ------------------------ | ----------------------------------------------- |
 | `public/`                | Static files (favicon, images, redirects, etc.) |
